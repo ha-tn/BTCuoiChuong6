@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\THUC HANH VS\\BTCChuong6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D51F0217-1A8F-4E19-B4CE-B90866DBF491}|BTCChuong6.vcxproj|D:\\THUC HANH VS\\BTCChuong6\\De3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D51F0217-1A8F-4E19-B4CE-B90866DBF491}|BTCChuong6.vcxproj|solutionrelative:De3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51F0217-1A8F-4E19-B4CE-B90866DBF491}|BTCChuong6.vcxproj|D:\\THUC HANH VS\\BTCChuong6\\De1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D51F0217-1A8F-4E19-B4CE-B90866DBF491}|BTCChuong6.vcxproj|solutionrelative:De1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "De1.cpp",
+              "DocumentMoniker": "D:\\THUC HANH VS\\BTCChuong6\\De1.cpp",
+              "RelativeDocumentMoniker": "De1.cpp",
+              "ToolTip": "D:\\THUC HANH VS\\BTCChuong6\\De1.cpp",
+              "RelativeToolTip": "De1.cpp",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-08T14:11:28.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "De3.cpp",
+              "DocumentMoniker": "D:\\THUC HANH VS\\BTCChuong6\\De3.cpp",
+              "RelativeDocumentMoniker": "De3.cpp",
+              "ToolTip": "D:\\THUC HANH VS\\BTCChuong6\\De3.cpp",
+              "RelativeToolTip": "De3.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-08T10:11:47.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

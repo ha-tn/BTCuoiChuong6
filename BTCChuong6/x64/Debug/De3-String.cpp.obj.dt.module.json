@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "BTCChuong6\\x64\\Debug\\De3-String.obj",
+            "outputs": [
+                "BTCChuong6\\x64\\Debug\\De3-String.cpp.obj.dt.module.json",
+                "BTCChuong6\\x64\\Debug\\De3-String.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

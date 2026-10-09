@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "BTCChuong6\\x64\\Debug\\__msvc_filebuf.obj",
+            "outputs": [
+                "BTCChuong6\\x64\\Debug\\__msvc_filebuf.hpp.obj.dt.module.json",
+                "BTCChuong6\\x64\\Debug\\__msvc_filebuf.hpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
