@@ -1,5 +1,4 @@
-﻿  De2.cpp
-D:\THUC HANH VS\BTCChuong6\De2.cpp(139,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\THUC HANH VS\BTCChuong6\De2.cpp(140,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\THUC HANH VS\BTCChuong6\De2.cpp(141,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+﻿  De4.cpp
+D:\THUC HANH VS\BTCChuong6\De4.cpp(183,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\THUC HANH VS\BTCChuong6\De4.cpp(189,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   BTCChuong6.vcxproj -> D:\THUC HANH VS\BTCChuong6\x64\Debug\BTCChuong6.exe

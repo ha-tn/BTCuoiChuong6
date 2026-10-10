@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "BTCChuong6\\x64\\Debug\\De4.obj",
+            "outputs": [
+                "BTCChuong6\\x64\\Debug\\De4.cpp.obj.dt.module.json",
+                "BTCChuong6\\x64\\Debug\\De4.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
