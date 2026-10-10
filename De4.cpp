@@ -27,37 +27,10 @@ void GhiDSvaoFile(Product DSProduct[], int& soLuong, string file);
 void DocDStuFile(Product DSProduct[], int& soLuong, string file);
 
 //CAU D: SAP XEP DANH SACH THEO GIA GIAM DAN
-void SapXepDStheoGiaGiamDan(Product DSProduct[], int soLuong) {
-	
-	for (int i = 0;i < soLuong-1;i++) {
-		for (int j = i+1;j < soLuong;j++) {
-			if (DSProduct[i].Price < DSProduct[j].Price) {
-				Product tmp = DSProduct[i];
-				DSProduct[i] = DSProduct[j];
-				DSProduct[j] = tmp;
-			}
-		}
-	}
-	cout << "Danh sach duoc sap xep giam dan theo gia la:" << endl;
-	InDS(DSProduct, soLuong);
-}
+void SapXepDStheoGiaGiamDan(Product DSProduct[], int soLuong);
 
 //SAP XEP DANH SACH THEO TEN SAN PHAM TANG DAN
-void SapXepDStheoTenSPtangDan(Product DSProduct[], int soLuong) {
-
-	for (int i = 0;i < soLuong - 1;i++) {
-		for (int j = i+1;j < soLuong;j++) {
-			if (DSProduct[i].Name > DSProduct[j].Name) {
-				Product tmp = DSProduct[i];
-				DSProduct[i] = DSProduct[j];
-				DSProduct[j] = tmp;
-			}
-		}
-	}
-	cout << "Danh sach duoc sap xep tang dan theo ten sp :" << endl;
-	InDS(DSProduct, soLuong);
-}
-
+void SapXepDStheoTenSPtangDan(Product DSProduct[], int soLuong);
 
 int main() {
 	int soLuong = 0;
@@ -225,4 +198,36 @@ void DocDStuFile(Product DSProduct[], int& soLuong, string file) {
 	}
 	docFile.close();
 	cout << "Da doc thong tin san pham tu file " << endl;
+}
+
+//CAU D: SAP XEP DANH SACH THEO GIA GIAM DAN
+void SapXepDStheoGiaGiamDan(Product DSProduct[], int soLuong) {
+
+	for (int i = 0;i < soLuong - 1;i++) {
+		for (int j = i + 1;j < soLuong;j++) {
+			if (DSProduct[i].Price < DSProduct[j].Price) {
+				Product tmp = DSProduct[i];
+				DSProduct[i] = DSProduct[j];
+				DSProduct[j] = tmp;
+			}
+		}
+	}
+	cout << "Danh sach duoc sap xep giam dan theo gia la:" << endl;
+	InDS(DSProduct, soLuong);
+}
+
+//SAP XEP DANH SACH THEO TEN SAN PHAM TANG DAN
+void SapXepDStheoTenSPtangDan(Product DSProduct[], int soLuong) {
+
+	for (int i = 0;i < soLuong - 1;i++) {
+		for (int j = i + 1;j < soLuong;j++) {
+			if (DSProduct[i].Name > DSProduct[j].Name) {
+				Product tmp = DSProduct[i];
+				DSProduct[i] = DSProduct[j];
+				DSProduct[j] = tmp;
+			}
+		}
+	}
+	cout << "Danh sach duoc sap xep tang dan theo ten sp :" << endl;
+	InDS(DSProduct, soLuong);
 }
