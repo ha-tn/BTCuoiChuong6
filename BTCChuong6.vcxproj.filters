@@ -27,5 +27,8 @@
     <ClCompile Include="De3-String.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="De2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

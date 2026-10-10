@@ -80,6 +80,7 @@ void nhapDSSVtuFile(SinhVien DSSinhVien[], int& soLuong, string file) {
                 break;
             }
         }
+
         if (trungMSSV == true) {
             cout << "Bo qua sinh vien co ma so trung la: " << mssv<<endl;
         }

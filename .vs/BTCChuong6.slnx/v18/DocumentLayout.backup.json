@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\THUC HANH VS\\BTCChuong6\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D51F0217-1A8F-4E19-B4CE-B90866DBF491}|BTCChuong6.vcxproj|D:\\THUC HANH VS\\BTCChuong6\\De2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D51F0217-1A8F-4E19-B4CE-B90866DBF491}|BTCChuong6.vcxproj|solutionrelative:De2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D51F0217-1A8F-4E19-B4CE-B90866DBF491}|BTCChuong6.vcxproj|D:\\THUC HANH VS\\BTCChuong6\\De3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D51F0217-1A8F-4E19-B4CE-B90866DBF491}|BTCChuong6.vcxproj|solutionrelative:De3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,25 +30,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "De2.cpp",
+              "DocumentMoniker": "D:\\THUC HANH VS\\BTCChuong6\\De2.cpp",
+              "RelativeDocumentMoniker": "De2.cpp",
+              "ToolTip": "D:\\THUC HANH VS\\BTCChuong6\\De2.cpp*",
+              "RelativeToolTip": "De2.cpp*",
+              "ViewState": "AgIAADkAAAAAAAAAAAArwEQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-10T02:01:12.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "De1.cpp",
               "DocumentMoniker": "D:\\THUC HANH VS\\BTCChuong6\\De1.cpp",
               "RelativeDocumentMoniker": "De1.cpp",
               "ToolTip": "D:\\THUC HANH VS\\BTCChuong6\\De1.cpp",
               "RelativeToolTip": "De1.cpp",
-              "ViewState": "AgIAALEAAAAAAAAAAAAAwKYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAALIAAAAAAAAAAIAwwE8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-08T14:11:28.028Z"
+              "WhenOpened": "2026-10-08T14:11:28.028Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "De3.cpp",
               "DocumentMoniker": "D:\\THUC HANH VS\\BTCChuong6\\De3.cpp",
               "RelativeDocumentMoniker": "De3.cpp",
-              "ToolTip": "D:\\THUC HANH VS\\BTCChuong6\\De3.cpp*",
-              "RelativeToolTip": "De3.cpp*",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAAI0AAAAuAAAAAAAAAA==",
+              "ToolTip": "D:\\THUC HANH VS\\BTCChuong6\\De3.cpp",
+              "RelativeToolTip": "De3.cpp",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAUwJwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-08T10:11:47.821Z",
               "EditorCaption": ""
